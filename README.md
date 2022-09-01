@@ -1,4 +1,4 @@
-### Hi there 👋
+### 잊지말자 1일 1커밋👋
 
 <!--
 **Leeyoonhu/Leeyoonhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
