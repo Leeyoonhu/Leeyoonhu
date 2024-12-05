@@ -1,4 +1,4 @@
-### 잊지말자 1일 1커밋👋
+현재는 플러터 공부중
 
 <!--
 **Leeyoonhu/Leeyoonhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
