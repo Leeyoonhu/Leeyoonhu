@@ -1,4 +1,8 @@
-현재는 플러터 공부중
+안녕하세요.
+
+효성ITX IT서비스팀에 재직중인 이윤후 입니다.
+
+반갑습니다.
 
 <!--
 **Leeyoonhu/Leeyoonhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
