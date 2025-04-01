@@ -1,8 +1,8 @@
 안녕하세요.
 
-효성ITX IT서비스팀에 재직중인 이윤후 입니다.
+개인적으로 하고싶은 프로젝트 저장하는 공간입니다.
 
-반갑습니다.
+궁금하신 사항은 leeyoonhu@hyosung.com 으로...
 
 <!--
 **Leeyoonhu/Leeyoonhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
