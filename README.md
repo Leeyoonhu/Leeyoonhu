@@ -2,7 +2,7 @@
 
 개인적으로 하고싶은 프로젝트 저장하는 공간입니다.
 
-궁금하신 사항은 leeyoonhu@hyosung.com 으로...
+메일주소 : leeyoonhu@hyosung.com
 
 <!--
 **Leeyoonhu/Leeyoonhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
